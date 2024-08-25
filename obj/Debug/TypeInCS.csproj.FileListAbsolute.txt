@@ -5,3 +5,10 @@ C:\Users\ivanp\source\repos\TypeInCS\TypeInCS\bin\Debug\TypeInCS.exe
 C:\Users\ivanp\source\repos\TypeInCS\TypeInCS\bin\Debug\TypeInCS.pdb
 C:\Users\ivanp\source\repos\TypeInCS\TypeInCS\obj\Debug\TypeInCS.exe
 C:\Users\ivanp\source\repos\TypeInCS\TypeInCS\obj\Debug\TypeInCS.pdb
+C:\Users\ivanp\source\repos\test\typeincs\bin\Debug\TypeInCS.exe.config
+C:\Users\ivanp\source\repos\test\typeincs\bin\Debug\TypeInCS.exe
+C:\Users\ivanp\source\repos\test\typeincs\bin\Debug\TypeInCS.pdb
+C:\Users\ivanp\source\repos\test\typeincs\obj\Debug\TypeInCS.csproj.AssemblyReference.cache
+C:\Users\ivanp\source\repos\test\typeincs\obj\Debug\TypeInCS.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\source\repos\test\typeincs\obj\Debug\TypeInCS.exe
+C:\Users\ivanp\source\repos\test\typeincs\obj\Debug\TypeInCS.pdb

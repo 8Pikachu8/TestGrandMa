@@ -24,14 +24,21 @@ namespace TypeInCS
             Console.WriteLine("Бежит!!!!");
         }
 
+        public void GetAnimal()
+        {
+            Console.WriteLine(name);
+            Console.WriteLine(power);
+            Console.WriteLine(size);
+
+        }
+
         static void Main()
         {
 
             Animal rabbit = new Animal();
             rabbit.name = "Заяц";
             rabbit.power = 1;
-            rabbit.Run();
-            rabbit.Sleep();
+            rabbit.GetAnimal();
         }
     }
 }
